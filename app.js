@@ -10,6 +10,7 @@ const preencherFormulario = (endereco) => {
     bairro.value = endereco.bairro
     cidade.value = endereco.localidade
     uf.value = endereco.uf
+    console.log("git teste")
 
 }
 
